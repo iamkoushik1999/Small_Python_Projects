@@ -1,4 +1,5 @@
 # Small_Python_Projects
 
-- Random Cards in Cards Game
-- Weekend and Weekdays with Python
+- Python program to shuffle a deck of card
+- Python Program to show Weekend and Weekdays
+- Python Program to generate a random number between two numbers
